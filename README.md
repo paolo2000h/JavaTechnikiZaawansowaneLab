@@ -15,5 +15,3 @@ Używając jlink należy przygotować minimalne środowisko uruchomieniowe, do k
 Aplikację powinno dać się uruchomić z linii komend, korzystając tylko z wygenerowanego środowiska uruchomieniowego. Sama aplikacja powinna oferować interfejs użytkownika (najlepiej graficzny, minimum - tekstowy).
 
 Do operacji na plikach i katalogów należy wykorzystać pakiet klas java.nio. Ponadto zalecane jest napisanie programu w stylu funkcjonalnym.
-
-Proszę dodać w aplikacji menadżer bezpieczeństwa. Proszę skorzystać z pliku polityki.
